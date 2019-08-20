@@ -1,6 +1,6 @@
 # Authors
 
-[Beatriz Albiero](https://github.com/beatrizalbiero), Estevao Uyra, [Manuel Ciosici](https://github.com/manuelciosici)
+[Beatriz Albiero](https://github.com/beatrizalbiero), [Estevao Uyra] (https://github.com/EstevaoUyra), [Manuel Ciosici](https://github.com/manuelciosici)
 
 # The Oracle Bot
 
